@@ -23,6 +23,6 @@ function selectionSort(lista) {
   }
 }
 
-listaA = [7, 2, 43, 1, 5, 25, 99, 8, 9];
+listaA = [7, 2, 43, 1, 5, 25, 99, 8, 9, 45, 3];
 console.log(listaA);
 selectionSort(listaA);
